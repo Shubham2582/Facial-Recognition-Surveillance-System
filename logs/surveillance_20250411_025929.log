@@ -1,0 +1,568 @@
+2025-04-11 02:59:29,918 - __main__ - INFO - Starting Facial Recognition Surveillance System
+2025-04-11 02:59:29,918 - __main__ - INFO - Initializing surveillance system...
+2025-04-11 02:59:29,920 - __main__ - INFO - Initializing face detector...
+2025-04-11 02:59:30,963 - __main__ - INFO - Initializing face recognizer...
+2025-04-11 02:59:30,963 - __main__ - INFO - Initializing face database...
+2025-04-11 02:59:30,967 - database.face_database - INFO - Loaded database with 54 identities
+2025-04-11 02:59:30,967 - __main__ - INFO - Initializing memory systems...
+2025-04-11 02:59:30,967 - __main__ - INFO - Initializing embedding cache...
+2025-04-11 02:59:30,967 - __main__ - INFO - Initializing surveillance engine...
+2025-04-11 02:59:30,967 - core.engine - INFO - Surveillance engine initialized
+2025-04-11 02:59:30,967 - __main__ - INFO - Surveillance system initialized successfully
+2025-04-11 02:59:30,967 - __main__ - INFO - Opening camera: 0
+2025-04-11 02:59:31,283 - __main__ - INFO - Starting video processing...
+2025-04-11 02:59:31,691 - core.engine - INFO - Recognized: shubham with confidence 0.7988
+2025-04-11 02:59:31,978 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:32,200 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:32,429 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:32,638 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:32,833 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:33,036 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:33,233 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:33,429 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:33,619 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:35,732 - core.engine - INFO - Recognized: suraj with confidence 0.6079
+2025-04-11 02:59:35,944 - core.engine - INFO - Recognized: suraj with confidence 0.8339
+2025-04-11 02:59:36,178 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:36,376 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:36,574 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:36,776 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:36,990 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:37,187 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:37,376 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:37,603 - core.engine - INFO - Recognized: suraj with confidence 0.6752
+2025-04-11 02:59:37,825 - core.engine - WARNING - Invalid face bbox: (-52, 123, 79, 284)
+2025-04-11 02:59:39,016 - core.engine - INFO - Recognized: suraj with confidence 0.8722
+2025-04-11 02:59:39,247 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:39,450 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:39,671 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:39,859 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:40,060 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:40,245 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:41,207 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:41,405 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:41,695 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:41,695 - core.engine - WARNING - Invalid face bbox: (111, 606, 201, 721)
+2025-04-11 02:59:41,979 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:42,259 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:42,259 - core.engine - WARNING - Invalid face bbox: (167, 591, 265, 722)
+2025-04-11 02:59:42,627 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:42,627 - core.engine - WARNING - Invalid face bbox: (175, 591, 271, 722)
+2025-04-11 02:59:42,942 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:42,942 - core.engine - WARNING - Invalid face bbox: (177, 592, 275, 723)
+2025-04-11 02:59:43,223 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:43,225 - core.engine - WARNING - Invalid face bbox: (188, 598, 284, 721)
+2025-04-11 02:59:43,445 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:43,648 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:43,848 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:44,072 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:44,269 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:44,483 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:44,680 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:44,898 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:45,100 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:45,312 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:45,523 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:45,715 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:45,925 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:46,144 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:46,346 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:46,544 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:46,760 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:46,969 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:47,169 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:47,396 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:47,607 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:47,799 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:48,008 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:48,222 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:48,434 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:48,642 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:48,846 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:49,062 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:49,547 - __main__ - INFO - Processed 100 frames. Avg processing time: 156.4ms
+2025-04-11 02:59:49,892 - core.engine - INFO - Recognized: suraj with confidence 0.6585
+2025-04-11 02:59:50,123 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:50,321 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:50,549 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:50,752 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:50,952 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 02:59:52,187 - core.engine - WARNING - Invalid face bbox: (-240, 59, 281, 855)
+2025-04-11 02:59:52,403 - core.engine - WARNING - Invalid face bbox: (1, 112, 592, 908)
+2025-04-11 02:59:52,600 - core.engine - WARNING - Invalid face bbox: (32, 116, 637, 916)
+2025-04-11 02:59:52,803 - core.engine - WARNING - Invalid face bbox: (255, -33, 796, 703)
+2025-04-11 02:59:53,005 - core.engine - WARNING - Invalid face bbox: (229, -39, 737, 656)
+2025-04-11 02:59:53,222 - core.engine - INFO - Recognized: shubham with confidence 0.8466
+2025-04-11 02:59:53,427 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:53,643 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:53,862 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:54,082 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:54,298 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:54,509 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:54,721 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:54,929 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:55,133 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:55,338 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:55,554 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:55,768 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:55,961 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:56,189 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:56,424 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:56,653 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:56,883 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:57,107 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:57,321 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:57,550 - core.engine - WARNING - Invalid face bbox: (81, 156, 550, 730)
+2025-04-11 02:59:57,774 - core.engine - WARNING - Invalid face bbox: (166, 178, 621, 732)
+2025-04-11 02:59:57,988 - core.engine - WARNING - Invalid face bbox: (236, 155, 689, 723)
+2025-04-11 02:59:58,192 - core.engine - WARNING - Invalid face bbox: (283, 161, 748, 729)
+2025-04-11 02:59:58,395 - core.engine - WARNING - Invalid face bbox: (293, 152, 755, 730)
+2025-04-11 02:59:58,590 - core.engine - WARNING - Invalid face bbox: (322, 165, 783, 734)
+2025-04-11 02:59:58,795 - core.engine - WARNING - Invalid face bbox: (336, 166, 807, 734)
+2025-04-11 02:59:59,011 - core.engine - WARNING - Invalid face bbox: (358, 154, 825, 726)
+2025-04-11 02:59:59,193 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:59,401 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:59,627 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:59:59,835 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:00,062 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:00,274 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:00,483 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:00,691 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:00,895 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:01,113 - core.engine - WARNING - Invalid face bbox: (505, 176, 977, 723)
+2025-04-11 03:00:02,158 - core.engine - WARNING - Invalid face bbox: (872, -78, 1440, 629)
+2025-04-11 03:00:02,356 - core.engine - WARNING - Invalid face bbox: (742, -118, 1292, 553)
+2025-04-11 03:00:02,561 - core.engine - WARNING - Invalid face bbox: (708, -83, 1248, 595)
+2025-04-11 03:00:02,783 - core.engine - WARNING - Invalid face bbox: (542, -22, 1047, 621)
+2025-04-11 03:00:02,990 - core.engine - WARNING - Invalid face bbox: (513, -21, 1019, 631)
+2025-04-11 03:00:03,198 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:03,435 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:03,682 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:03,901 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:04,107 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:04,313 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:04,531 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:04,737 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:04,942 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:05,180 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:05,390 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:05,603 - core.engine - WARNING - Invalid face bbox: (407, 221, 849, 732)
+2025-04-11 03:00:05,817 - core.engine - WARNING - Invalid face bbox: (279, 352, 680, 830)
+2025-04-11 03:00:06,039 - core.engine - WARNING - Invalid face bbox: (126, 356, 530, 825)
+2025-04-11 03:00:06,251 - core.engine - WARNING - Invalid face bbox: (33, 301, 447, 763)
+2025-04-11 03:00:06,445 - core.engine - WARNING - Invalid face bbox: (90, 311, 491, 772)
+2025-04-11 03:00:07,197 - core.engine - WARNING - Invalid face bbox: (473, 556, 848, 1019)
+2025-04-11 03:00:07,406 - core.engine - WARNING - Invalid face bbox: (629, 375, 1033, 861)
+2025-04-11 03:00:07,604 - core.engine - WARNING - Invalid face bbox: (666, 275, 1072, 741)
+2025-04-11 03:00:07,807 - core.engine - WARNING - Invalid face bbox: (652, 266, 1057, 735)
+2025-04-11 03:00:08,001 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:08,227 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:08,439 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:08,658 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:08,670 - __main__ - INFO - Processed 200 frames. Avg processing time: 160.6ms
+2025-04-11 03:00:08,851 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:09,049 - core.engine - WARNING - Invalid face bbox: (355, 222, 842, 792)
+2025-04-11 03:00:09,251 - core.engine - WARNING - Invalid face bbox: (217, 57, 812, 737)
+2025-04-11 03:00:10,365 - core.engine - WARNING - Invalid face bbox: (-236, 127, 283, 803)
+2025-04-11 03:00:10,576 - core.engine - WARNING - Invalid face bbox: (116, -185, 750, 556)
+2025-04-11 03:00:10,781 - core.engine - WARNING - Invalid face bbox: (345, -95, 914, 654)
+2025-04-11 03:00:10,984 - core.engine - WARNING - Invalid face bbox: (417, -10, 991, 708)
+2025-04-11 03:00:11,205 - core.engine - WARNING - Invalid face bbox: (301, -157, 919, 637)
+2025-04-11 03:00:11,425 - core.engine - WARNING - Invalid face bbox: (243, -163, 892, 663)
+2025-04-11 03:00:11,655 - core.engine - WARNING - Invalid face bbox: (227, -169, 890, 663)
+2025-04-11 03:00:11,875 - core.engine - WARNING - Invalid face bbox: (243, -160, 899, 668)
+2025-04-11 03:00:12,150 - core.engine - WARNING - Invalid face bbox: (266, -209, 925, 640)
+2025-04-11 03:00:12,402 - core.engine - WARNING - Invalid face bbox: (263, -224, 933, 645)
+2025-04-11 03:00:12,700 - core.engine - WARNING - Invalid face bbox: (264, -179, 946, 654)
+2025-04-11 03:00:12,942 - core.engine - WARNING - Invalid face bbox: (306, -226, 967, 637)
+2025-04-11 03:00:13,188 - core.engine - WARNING - Invalid face bbox: (315, -223, 992, 634)
+2025-04-11 03:00:13,419 - core.engine - WARNING - Invalid face bbox: (317, -227, 997, 631)
+2025-04-11 03:00:13,647 - core.engine - WARNING - Invalid face bbox: (319, -224, 999, 633)
+2025-04-11 03:00:13,872 - core.engine - WARNING - Invalid face bbox: (324, -231, 1001, 627)
+2025-04-11 03:00:14,120 - core.engine - WARNING - Invalid face bbox: (322, -228, 1006, 628)
+2025-04-11 03:00:14,350 - core.engine - WARNING - Invalid face bbox: (328, -227, 1011, 617)
+2025-04-11 03:00:14,591 - core.engine - WARNING - Invalid face bbox: (336, -237, 1013, 605)
+2025-04-11 03:00:14,834 - core.engine - WARNING - Invalid face bbox: (340, -250, 1022, 602)
+2025-04-11 03:00:15,054 - core.engine - WARNING - Invalid face bbox: (335, -246, 1016, 605)
+2025-04-11 03:00:15,323 - core.engine - WARNING - Invalid face bbox: (340, -250, 1025, 602)
+2025-04-11 03:00:15,581 - core.engine - WARNING - Invalid face bbox: (340, -252, 1034, 599)
+2025-04-11 03:00:15,971 - core.engine - INFO - Recognized: shubham with confidence 0.7476
+2025-04-11 03:00:16,262 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:16,542 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:16,833 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:17,075 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:17,323 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:17,573 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:17,805 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:18,032 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:18,252 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:18,478 - core.engine - INFO - Recognized: shubham with confidence 0.9444
+2025-04-11 03:00:19,837 - core.engine - INFO - Recognized: suraj with confidence 0.5227
+2025-04-11 03:00:20,041 - core.engine - INFO - Recognized: suraj with confidence 0.6936
+2025-04-11 03:00:20,272 - core.engine - INFO - Recognized: suraj with confidence 0.6587
+2025-04-11 03:00:20,491 - core.engine - INFO - Recognized: suraj with confidence 0.7458
+2025-04-11 03:00:20,707 - core.engine - INFO - Recognized: suraj with confidence 0.8378
+2025-04-11 03:00:20,923 - core.engine - INFO - Recognized: suraj with confidence 0.9767
+2025-04-11 03:00:21,123 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:21,348 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:21,550 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:21,784 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:21,980 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:22,179 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:22,386 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:22,595 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:22,832 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:23,059 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:23,267 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:23,484 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:23,707 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:23,936 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:24,166 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:24,494 - core.engine - INFO - Recognized: suraj with confidence 0.9146
+2025-04-11 03:00:24,708 - core.engine - INFO - Recognized: suraj with confidence 0.8741
+2025-04-11 03:00:24,934 - core.engine - INFO - Recognized: suraj with confidence 0.7723
+2025-04-11 03:00:25,151 - core.engine - INFO - Recognized: suraj with confidence 0.9706
+2025-04-11 03:00:25,390 - core.engine - INFO - Recognized: suraj with confidence 0.9781
+2025-04-11 03:00:25,626 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:25,850 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:26,073 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:26,299 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:26,525 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:26,746 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:26,984 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:27,221 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:27,437 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:27,662 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:27,890 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:28,124 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:28,359 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:28,590 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:28,829 - core.engine - INFO - Recognized: suraj with confidence 0.9810
+2025-04-11 03:00:29,027 - core.engine - INFO - Recognized: suraj with confidence 0.9985
+2025-04-11 03:00:29,251 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:29,478 - core.engine - INFO - Recognized: suraj with confidence 0.9803
+2025-04-11 03:00:29,489 - __main__ - INFO - Processed 300 frames. Avg processing time: 167.1ms
+2025-04-11 03:00:29,709 - core.engine - INFO - Recognized: suraj with confidence 0.9532
+2025-04-11 03:00:29,933 - core.engine - INFO - Recognized: suraj with confidence 0.9631
+2025-04-11 03:00:30,149 - core.engine - INFO - Recognized: suraj with confidence 0.9692
+2025-04-11 03:00:30,360 - core.engine - INFO - Recognized: suraj with confidence 0.9929
+2025-04-11 03:00:30,577 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:30,883 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:31,107 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:31,459 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:31,785 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:32,027 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:32,352 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:32,677 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:32,997 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:33,215 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:33,425 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:33,639 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:33,979 - core.engine - INFO - Recognized: suraj with confidence 0.9576
+2025-04-11 03:00:34,208 - core.engine - INFO - Recognized: suraj with confidence 0.8948
+2025-04-11 03:00:34,407 - core.engine - INFO - Recognized: suraj with confidence 0.9953
+2025-04-11 03:00:34,634 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:34,851 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:35,048 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:35,267 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:35,480 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:35,710 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:35,912 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:36,120 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:36,336 - core.engine - INFO - Recognized: suraj with confidence 0.9913
+2025-04-11 03:00:36,555 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:36,764 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:36,983 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:37,214 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:37,414 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:37,639 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:37,854 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:38,078 - core.engine - INFO - Recognized: suraj with confidence 0.9859
+2025-04-11 03:00:38,288 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:38,514 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:38,717 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:38,936 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:39,157 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:39,377 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:39,596 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:39,804 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:40,009 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:40,333 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:40,569 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:40,788 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:40,997 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:41,189 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:41,411 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:41,652 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:41,863 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:42,072 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:42,271 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:42,514 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:42,731 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:42,949 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:43,163 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:43,367 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:43,576 - core.engine - INFO - Recognized: suraj with confidence 0.9483
+2025-04-11 03:00:43,790 - core.engine - INFO - Recognized: suraj with confidence 0.9271
+2025-04-11 03:00:44,017 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:44,222 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:44,469 - core.engine - INFO - Recognized: suraj with confidence 0.9285
+2025-04-11 03:00:44,681 - core.engine - INFO - Recognized: suraj with confidence 0.9328
+2025-04-11 03:00:44,905 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:45,126 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:45,336 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:45,564 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:45,789 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:46,025 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:46,245 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:46,480 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:46,723 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:46,950 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:47,178 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:00:47,505 - core.engine - WARNING - Invalid face bbox: (-130, 289, 212, 735)
+2025-04-11 03:00:47,715 - core.engine - INFO - Recognized: shubham with confidence 0.8666
+2025-04-11 03:00:47,947 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:48,163 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:48,397 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:48,619 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:48,852 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:49,082 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:49,332 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:49,566 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:49,810 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:50,055 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:50,279 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:00:50,514 - core.engine - WARNING - Invalid face bbox: (41, 454, 297, 733)
+2025-04-11 03:00:50,740 - core.engine - WARNING - Invalid face bbox: (-13, 541, 224, 783)
+2025-04-11 03:00:51,608 - __main__ - INFO - Processed 400 frames. Avg processing time: 172.6ms
+2025-04-11 03:00:52,174 - core.engine - WARNING - Invalid face bbox: (174, 518, 417, 768)
+2025-04-11 03:00:52,399 - core.engine - WARNING - Invalid face bbox: (195, 485, 435, 751)
+2025-04-11 03:00:52,619 - core.engine - WARNING - Invalid face bbox: (237, 468, 472, 751)
+2025-04-11 03:00:52,828 - core.engine - WARNING - Invalid face bbox: (272, 432, 506, 730)
+2025-04-11 03:00:53,048 - core.engine - WARNING - Invalid face bbox: (291, 444, 524, 737)
+2025-04-11 03:00:53,264 - core.engine - WARNING - Invalid face bbox: (264, 437, 504, 733)
+2025-04-11 03:00:53,487 - core.engine - WARNING - Invalid face bbox: (251, 453, 491, 741)
+2025-04-11 03:00:53,710 - core.engine - WARNING - Invalid face bbox: (256, 459, 493, 739)
+2025-04-11 03:00:53,923 - core.engine - WARNING - Invalid face bbox: (258, 460, 493, 739)
+2025-04-11 03:00:54,147 - core.engine - WARNING - Invalid face bbox: (256, 447, 493, 738)
+2025-04-11 03:00:54,339 - core.engine - WARNING - Invalid face bbox: (236, 466, 471, 739)
+2025-04-11 03:00:54,544 - core.engine - WARNING - Invalid face bbox: (217, 456, 467, 745)
+2025-04-11 03:00:54,730 - core.engine - WARNING - Invalid face bbox: (205, 516, 458, 762)
+2025-04-11 03:00:54,936 - core.engine - WARNING - Invalid face bbox: (168, 532, 430, 830)
+2025-04-11 03:00:55,119 - core.engine - WARNING - Invalid face bbox: (155, 503, 431, 774)
+2025-04-11 03:00:56,600 - core.engine - INFO - Recognized: shubham with confidence 0.6589
+2025-04-11 03:00:58,377 - core.engine - INFO - Recognized: shubham with confidence 0.5996
+2025-04-11 03:00:58,582 - core.engine - INFO - Recognized: shubham with confidence 0.6064
+2025-04-11 03:00:58,787 - core.engine - INFO - Recognized: shubham with confidence 0.6329
+2025-04-11 03:00:59,000 - core.engine - INFO - Recognized: shubham with confidence 0.6472
+2025-04-11 03:00:59,203 - core.engine - INFO - Recognized: shubham with confidence 0.7326
+2025-04-11 03:00:59,416 - core.engine - INFO - Recognized: shubham with confidence 0.7904
+2025-04-11 03:00:59,619 - core.engine - INFO - Recognized: shubham with confidence 0.8296
+2025-04-11 03:00:59,811 - core.engine - INFO - Recognized: shubham with confidence 0.6882
+2025-04-11 03:01:00,028 - core.engine - INFO - Recognized: shubham with confidence 0.6541
+2025-04-11 03:01:00,249 - core.engine - INFO - Recognized: shubham with confidence 0.6427
+2025-04-11 03:01:00,451 - core.engine - INFO - Recognized: shubham with confidence 0.6432
+2025-04-11 03:01:00,664 - core.engine - INFO - Recognized: shubham with confidence 0.7020
+2025-04-11 03:01:00,867 - core.engine - INFO - Recognized: shubham with confidence 0.7926
+2025-04-11 03:01:01,061 - core.engine - INFO - Recognized: shubham with confidence 0.8803
+2025-04-11 03:01:01,269 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:01,475 - core.engine - INFO - Recognized: shubham with confidence 0.7995
+2025-04-11 03:01:01,679 - core.engine - INFO - Recognized: shubham with confidence 0.5890
+2025-04-11 03:01:01,871 - core.engine - INFO - Recognized: shubham with confidence 0.8295
+2025-04-11 03:01:02,101 - core.engine - INFO - Recognized: shubham with confidence 0.9884
+2025-04-11 03:01:02,309 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:02,532 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:02,752 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:02,948 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:03,153 - core.engine - INFO - Recognized: shubham with confidence 0.9894
+2025-04-11 03:01:03,363 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:03,567 - core.engine - INFO - Recognized: shubham with confidence 0.9872
+2025-04-11 03:01:03,779 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:03,988 - core.engine - INFO - Recognized: shubham with confidence 0.9543
+2025-04-11 03:01:04,192 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:04,408 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:04,621 - core.engine - INFO - Recognized: shubham with confidence 0.9743
+2025-04-11 03:01:04,819 - core.engine - INFO - Recognized: shubham with confidence 0.9463
+2025-04-11 03:01:05,034 - core.engine - INFO - Recognized: shubham with confidence 0.8863
+2025-04-11 03:01:05,246 - core.engine - INFO - Recognized: shubham with confidence 0.9071
+2025-04-11 03:01:05,447 - core.engine - INFO - Recognized: shubham with confidence 0.8542
+2025-04-11 03:01:05,870 - core.engine - INFO - Recognized: shubham with confidence 0.6752
+2025-04-11 03:01:06,293 - core.engine - INFO - Recognized: shubham with confidence 0.6365
+2025-04-11 03:01:06,736 - core.engine - INFO - Recognized: shubham with confidence 0.4671
+2025-04-11 03:01:06,958 - core.engine - INFO - Recognized: shubham with confidence 0.4828
+2025-04-11 03:01:07,170 - core.engine - INFO - Recognized: shubham with confidence 0.3768
+2025-04-11 03:01:07,385 - core.engine - INFO - Recognized: shubham with confidence 0.4308
+2025-04-11 03:01:07,603 - core.engine - INFO - Recognized: shubham with confidence 0.2995
+2025-04-11 03:01:07,813 - core.engine - INFO - Recognized: shubham with confidence 0.5880
+2025-04-11 03:01:08,021 - core.engine - INFO - Recognized: shubham with confidence 0.5413
+2025-04-11 03:01:08,224 - core.engine - INFO - Recognized: shubham with confidence 0.4643
+2025-04-11 03:01:08,423 - core.engine - INFO - Recognized: shubham with confidence 0.3183
+2025-04-11 03:01:08,643 - core.engine - INFO - Recognized: shubham with confidence 0.4259
+2025-04-11 03:01:10,203 - __main__ - INFO - Processed 500 frames. Avg processing time: 169.6ms
+2025-04-11 03:01:10,797 - core.engine - INFO - Recognized: shubham with confidence 0.5748
+2025-04-11 03:01:11,006 - core.engine - INFO - Recognized: shubham with confidence 0.4765
+2025-04-11 03:01:11,213 - core.engine - INFO - Recognized: shubham with confidence 0.5011
+2025-04-11 03:01:11,405 - core.engine - INFO - Recognized: shubham with confidence 0.4998
+2025-04-11 03:01:11,631 - core.engine - INFO - Recognized: shubham with confidence 0.4052
+2025-04-11 03:01:14,282 - core.engine - INFO - Recognized: shubham with confidence 0.3448
+2025-04-11 03:01:14,519 - core.engine - INFO - Recognized: shubham with confidence 0.5726
+2025-04-11 03:01:14,740 - core.engine - INFO - Recognized: shubham with confidence 0.5787
+2025-04-11 03:01:14,960 - core.engine - INFO - Recognized: shubham with confidence 0.4880
+2025-04-11 03:01:15,181 - core.engine - INFO - Recognized: shubham with confidence 0.5469
+2025-04-11 03:01:15,388 - core.engine - INFO - Recognized: shubham with confidence 0.5390
+2025-04-11 03:01:15,576 - core.engine - INFO - Recognized: shubham with confidence 0.5055
+2025-04-11 03:01:15,778 - core.engine - INFO - Recognized: shubham with confidence 0.5202
+2025-04-11 03:01:16,002 - core.engine - INFO - Recognized: shubham with confidence 0.5041
+2025-04-11 03:01:16,204 - core.engine - INFO - Recognized: shubham with confidence 0.5939
+2025-04-11 03:01:16,415 - core.engine - INFO - Recognized: shubham with confidence 0.6525
+2025-04-11 03:01:16,635 - core.engine - INFO - Recognized: shubham with confidence 0.4862
+2025-04-11 03:01:18,637 - core.engine - INFO - Recognized: shubham with confidence 0.5215
+2025-04-11 03:01:18,861 - core.engine - INFO - Recognized: shubham with confidence 0.5177
+2025-04-11 03:01:19,071 - core.engine - INFO - Recognized: shubham with confidence 0.5561
+2025-04-11 03:01:19,284 - core.engine - INFO - Recognized: shubham with confidence 0.5882
+2025-04-11 03:01:19,502 - core.engine - INFO - Recognized: shubham with confidence 0.5955
+2025-04-11 03:01:19,726 - core.engine - INFO - Recognized: shubham with confidence 0.5899
+2025-04-11 03:01:19,953 - core.engine - INFO - Recognized: shubham with confidence 0.6026
+2025-04-11 03:01:20,163 - core.engine - INFO - Recognized: shubham with confidence 0.6023
+2025-04-11 03:01:20,362 - core.engine - INFO - Recognized: shubham with confidence 0.6606
+2025-04-11 03:01:20,576 - core.engine - INFO - Recognized: shubham with confidence 0.6626
+2025-04-11 03:01:20,792 - core.engine - INFO - Recognized: shubham with confidence 0.6772
+2025-04-11 03:01:20,989 - core.engine - INFO - Recognized: shubham with confidence 0.6950
+2025-04-11 03:01:21,201 - core.engine - INFO - Recognized: shubham with confidence 0.7395
+2025-04-11 03:01:21,426 - core.engine - INFO - Recognized: shubham with confidence 0.7524
+2025-04-11 03:01:21,641 - core.engine - INFO - Recognized: shubham with confidence 0.7837
+2025-04-11 03:01:21,848 - core.engine - INFO - Recognized: shubham with confidence 0.8149
+2025-04-11 03:01:22,061 - core.engine - INFO - Recognized: shubham with confidence 0.8965
+2025-04-11 03:01:22,276 - core.engine - INFO - Recognized: shubham with confidence 0.8853
+2025-04-11 03:01:22,489 - core.engine - INFO - Recognized: shubham with confidence 0.8878
+2025-04-11 03:01:22,704 - core.engine - INFO - Recognized: shubham with confidence 0.7073
+2025-04-11 03:01:23,855 - core.engine - INFO - Recognized: shubham with confidence 0.6846
+2025-04-11 03:01:24,060 - core.engine - INFO - Recognized: shubham with confidence 0.6529
+2025-04-11 03:01:24,270 - core.engine - INFO - Recognized: shubham with confidence 0.7718
+2025-04-11 03:01:24,495 - core.engine - INFO - Recognized: shubham with confidence 0.7542
+2025-04-11 03:01:24,712 - core.engine - INFO - Recognized: shubham with confidence 0.7354
+2025-04-11 03:01:24,926 - core.engine - INFO - Recognized: shubham with confidence 0.6229
+2025-04-11 03:01:25,158 - core.engine - INFO - Recognized: shubham with confidence 0.8020
+2025-04-11 03:01:25,364 - core.engine - INFO - Recognized: shubham with confidence 0.7167
+2025-04-11 03:01:25,571 - core.engine - INFO - Recognized: shubham with confidence 0.7010
+2025-04-11 03:01:25,791 - core.engine - INFO - Recognized: shubham with confidence 0.6261
+2025-04-11 03:01:26,028 - core.engine - INFO - Recognized: shubham with confidence 0.5546
+2025-04-11 03:01:26,263 - core.engine - INFO - Recognized: shubham with confidence 0.5528
+2025-04-11 03:01:26,509 - core.engine - INFO - Recognized: shubham with confidence 0.6227
+2025-04-11 03:01:26,727 - core.engine - INFO - Recognized: shubham with confidence 0.6432
+2025-04-11 03:01:26,919 - core.engine - INFO - Recognized: shubham with confidence 0.6474
+2025-04-11 03:01:27,119 - core.engine - INFO - Recognized: shubham with confidence 0.6460
+2025-04-11 03:01:27,323 - core.engine - INFO - Recognized: shubham with confidence 0.6632
+2025-04-11 03:01:27,518 - core.engine - INFO - Recognized: shubham with confidence 0.7368
+2025-04-11 03:01:27,727 - core.engine - INFO - Recognized: shubham with confidence 0.8470
+2025-04-11 03:01:27,941 - core.engine - INFO - Recognized: shubham with confidence 0.9602
+2025-04-11 03:01:28,158 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:28,374 - core.engine - INFO - Recognized: shubham with confidence 0.9342
+2025-04-11 03:01:28,579 - core.engine - INFO - Recognized: shubham with confidence 0.9316
+2025-04-11 03:01:28,793 - core.engine - INFO - Recognized: shubham with confidence 0.8953
+2025-04-11 03:01:28,997 - core.engine - INFO - Recognized: shubham with confidence 0.9556
+2025-04-11 03:01:29,192 - core.engine - INFO - Recognized: shubham with confidence 0.9975
+2025-04-11 03:01:29,402 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:29,620 - core.engine - WARNING - Invalid face bbox: (762, -6, 883, 140)
+2025-04-11 03:01:29,853 - __main__ - INFO - Processed 600 frames. Avg processing time: 169.2ms
+2025-04-11 03:01:32,905 - core.engine - INFO - Recognized: suraj with confidence 0.5879
+2025-04-11 03:01:34,058 - core.engine - WARNING - Invalid face bbox: (-108, 38, 255, 457)
+2025-04-11 03:01:34,274 - core.engine - INFO - Recognized: shubham with confidence 0.7344
+2025-04-11 03:01:34,501 - core.engine - INFO - Recognized: shubham with confidence 0.9286
+2025-04-11 03:01:34,737 - core.engine - WARNING - Invalid face bbox: (187, -4, 539, 431)
+2025-04-11 03:01:34,957 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:01:35,203 - core.engine - WARNING - Invalid face bbox: (236, -9, 590, 436)
+2025-04-11 03:01:36,038 - core.engine - INFO - Recognized: suraj with confidence 0.5394
+2025-04-11 03:01:36,247 - core.engine - INFO - Recognized: suraj with confidence 0.5854
+2025-04-11 03:01:36,458 - core.engine - INFO - Recognized: suraj with confidence 0.6832
+2025-04-11 03:01:36,668 - core.engine - INFO - Recognized: suraj with confidence 0.8736
+2025-04-11 03:01:36,878 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:37,071 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:39,914 - core.engine - INFO - Recognized: suraj with confidence 0.7045
+2025-04-11 03:01:40,149 - core.engine - INFO - Recognized: suraj with confidence 0.7824
+2025-04-11 03:01:40,347 - core.engine - INFO - Recognized: suraj with confidence 0.9597
+2025-04-11 03:01:40,632 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:40,941 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:41,250 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:41,451 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:41,761 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:42,065 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:42,394 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:42,617 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:42,834 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:43,055 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:01:43,267 - core.engine - INFO - Recognized: suraj with confidence 0.8500
+2025-04-11 03:01:43,458 - core.engine - INFO - Recognized: suraj with confidence 0.9101
+2025-04-11 03:01:43,658 - core.engine - INFO - Recognized: suraj with confidence 0.8036
+2025-04-11 03:01:44,752 - core.engine - INFO - Recognized: suraj with confidence 0.6176
+2025-04-11 03:01:46,283 - core.engine - WARNING - Invalid face bbox: (84, -64, 200, 90)
+2025-04-11 03:01:46,480 - core.engine - WARNING - Invalid face bbox: (101, -58, 213, 87)
+2025-04-11 03:01:46,848 - __main__ - INFO - Processed 700 frames. Avg processing time: 165.5ms
+2025-04-11 03:01:49,581 - core.engine - WARNING - Invalid face bbox: (289, -78, 421, 101)
+2025-04-11 03:01:49,794 - core.engine - INFO - Recognized: suraj with confidence 0.6800
+2025-04-11 03:01:50,002 - core.engine - WARNING - Invalid face bbox: (639, -108, 962, 304)
+2025-04-11 03:01:50,221 - core.engine - WARNING - Invalid face bbox: (642, -149, 992, 278)
+2025-04-11 03:01:58,664 - __main__ - INFO - Processed 800 frames. Avg processing time: 156.6ms
+2025-04-11 03:02:03,321 - core.engine - WARNING - Invalid face bbox: (677, -6, 726, 48)
+2025-04-11 03:02:15,348 - __main__ - INFO - Processed 900 frames. Avg processing time: 154.6ms
+2025-04-11 03:02:15,538 - core.engine - WARNING - Invalid face bbox: (920, -44, 1059, 119)
+2025-04-11 03:02:34,811 - __main__ - INFO - Processed 1000 frames. Avg processing time: 155.8ms
+2025-04-11 03:02:49,612 - core.engine - WARNING - Invalid face bbox: (539, -30, 965, 384)
+2025-04-11 03:02:49,814 - core.engine - WARNING - Invalid face bbox: (476, -14, 905, 400)
+2025-04-11 03:02:51,090 - core.engine - WARNING - Invalid face bbox: (465, 263, 993, 752)
+2025-04-11 03:02:51,293 - core.engine - WARNING - Invalid face bbox: (463, 273, 978, 777)
+2025-04-11 03:02:51,513 - core.engine - WARNING - Invalid face bbox: (444, 244, 989, 760)
+2025-04-11 03:02:51,722 - core.engine - WARNING - Invalid face bbox: (452, 175, 1009, 738)
+2025-04-11 03:02:52,139 - __main__ - INFO - Processed 1100 frames. Avg processing time: 155.3ms
+2025-04-11 03:02:54,228 - core.engine - WARNING - Invalid face bbox: (472, -30, 931, 545)
+2025-04-11 03:02:54,427 - core.engine - WARNING - Invalid face bbox: (537, -170, 959, 435)
+2025-04-11 03:02:54,655 - core.engine - WARNING - Invalid face bbox: (537, -138, 913, 415)
+2025-04-11 03:02:54,875 - core.engine - WARNING - Invalid face bbox: (566, -106, 896, 343)
+2025-04-11 03:02:55,087 - core.engine - WARNING - Invalid face bbox: (587, -2, 872, 385)
+2025-04-11 03:03:05,198 - core.engine - INFO - Recognized: shubham with confidence 0.7676
+2025-04-11 03:03:05,394 - core.engine - INFO - Recognized: shubham with confidence 0.8499
+2025-04-11 03:03:05,608 - core.engine - INFO - Recognized: shubham with confidence 0.9026
+2025-04-11 03:03:05,806 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:06,021 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:06,231 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:06,450 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:06,668 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:06,884 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:07,090 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:07,336 - __main__ - INFO - Processed 1200 frames. Avg processing time: 153.2ms
+2025-04-11 03:03:09,367 - core.engine - WARNING - Invalid face bbox: (-122, -179, 494, 541)
+2025-04-11 03:03:10,752 - core.engine - WARNING - Invalid face bbox: (578, 196, 1117, 819)
+2025-04-11 03:03:10,955 - core.engine - WARNING - Invalid face bbox: (870, 63, 1315, 629)
+2025-04-11 03:03:11,183 - core.engine - WARNING - Invalid face bbox: (946, 76, 1348, 578)
+2025-04-11 03:03:11,392 - core.engine - WARNING - Invalid face bbox: (962, 119, 1369, 612)
+2025-04-11 03:03:11,600 - core.engine - WARNING - Invalid face bbox: (962, 134, 1368, 615)
+2025-04-11 03:03:11,800 - core.engine - INFO - Recognized: suraj with confidence 0.5575
+2025-04-11 03:03:11,999 - core.engine - INFO - Recognized: suraj with confidence 0.7700
+2025-04-11 03:03:12,200 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:03:12,449 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:03:12,677 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:03:12,897 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:03:13,111 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:03:13,314 - core.engine - WARNING - Invalid face bbox: (986, 7, 1471, 589)
+2025-04-11 03:03:13,512 - core.engine - WARNING - Invalid face bbox: (870, 171, 1343, 696)
+2025-04-11 03:03:13,720 - core.engine - WARNING - Invalid face bbox: (844, 233, 1323, 731)
+2025-04-11 03:03:13,914 - core.engine - WARNING - Invalid face bbox: (821, 240, 1305, 721)
+2025-04-11 03:03:14,130 - core.engine - WARNING - Invalid face bbox: (826, 232, 1309, 715)
+2025-04-11 03:03:14,326 - core.engine - WARNING - Invalid face bbox: (797, 166, 1291, 684)
+2025-04-11 03:03:14,539 - core.engine - WARNING - Invalid face bbox: (727, -123, 1228, 435)
+2025-04-11 03:03:14,762 - core.engine - WARNING - Invalid face bbox: (647, -220, 1131, 326)
+2025-04-11 03:03:14,969 - core.engine - WARNING - Invalid face bbox: (428, -269, 903, 293)
+2025-04-11 03:03:15,184 - core.engine - WARNING - Invalid face bbox: (464, -221, 910, 329)
+2025-04-11 03:03:15,378 - core.engine - WARNING - Invalid face bbox: (537, -124, 979, 403)
+2025-04-11 03:03:15,585 - core.engine - WARNING - Invalid face bbox: (601, -26, 1043, 525)
+2025-04-11 03:03:15,794 - core.engine - INFO - Recognized: shubham with confidence 0.7992
+2025-04-11 03:03:15,991 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:16,211 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:16,428 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:16,631 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:16,865 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:17,087 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:17,320 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:03:20,985 - __main__ - INFO - Processing interrupted by user
+2025-04-11 03:03:21,020 - __main__ - INFO - Processing complete. 1289 frames processed in 195.52s (avg: 151.7ms/frame)
+2025-04-11 03:03:21,022 - __main__ - INFO - Facial Recognition Surveillance System shut down

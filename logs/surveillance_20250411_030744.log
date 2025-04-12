@@ -1,0 +1,111 @@
+2025-04-11 03:07:44,997 - __main__ - INFO - Starting Facial Recognition Surveillance System
+2025-04-11 03:07:44,997 - __main__ - INFO - Initializing surveillance system...
+2025-04-11 03:07:44,997 - __main__ - INFO - Initializing face detector...
+2025-04-11 03:07:46,076 - __main__ - INFO - Initializing face recognizer...
+2025-04-11 03:07:46,076 - __main__ - INFO - Initializing face database...
+2025-04-11 03:07:46,076 - database.face_database - INFO - Loaded database with 54 identities
+2025-04-11 03:07:46,076 - __main__ - INFO - Initializing memory systems...
+2025-04-11 03:07:46,076 - __main__ - INFO - Initializing embedding cache...
+2025-04-11 03:07:46,076 - __main__ - INFO - Initializing surveillance engine...
+2025-04-11 03:07:46,082 - core.engine - INFO - Surveillance engine initialized
+2025-04-11 03:07:46,082 - __main__ - INFO - Surveillance system initialized successfully
+2025-04-11 03:07:46,082 - __main__ - INFO - Opening camera: 0
+2025-04-11 03:07:46,448 - __main__ - INFO - Starting video processing...
+2025-04-11 03:07:46,887 - core.engine - INFO - Recognized: suraj with confidence 0.6631
+2025-04-11 03:07:47,207 - core.engine - INFO - Recognized: suraj with confidence 0.9361
+2025-04-11 03:07:47,439 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:47,669 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:47,881 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:48,101 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:48,305 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:48,522 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:48,721 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:48,925 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:49,115 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:49,329 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:49,552 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:49,756 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:49,979 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:50,183 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:50,390 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:50,589 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:50,817 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:51,034 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:51,237 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:51,448 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:51,671 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:51,868 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:52,092 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:52,317 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:52,519 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:52,725 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:52,940 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:53,157 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:53,356 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:53,552 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:53,871 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:53,871 - core.engine - WARNING - Invalid face bbox: (222, 621, 358, 727)
+2025-04-11 03:07:54,191 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:54,191 - core.engine - WARNING - Invalid face bbox: (214, 612, 349, 725)
+2025-04-11 03:07:54,493 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:54,493 - core.engine - WARNING - Invalid face bbox: (228, 631, 363, 726)
+2025-04-11 03:07:54,693 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:54,898 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:55,102 - core.engine - INFO - Recognized: suraj with confidence 0.9507
+2025-04-11 03:07:55,295 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:55,587 - core.engine - WARNING - Invalid face bbox: (244, -35, 394, 156)
+2025-04-11 03:07:55,587 - core.engine - WARNING - Invalid face bbox: (204, 539, 359, 722)
+2025-04-11 03:07:55,866 - core.engine - WARNING - Invalid face bbox: (234, -9, 383, 175)
+2025-04-11 03:07:55,866 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:56,164 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:56,164 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:56,493 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:56,493 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:56,815 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:56,815 - core.engine - WARNING - Invalid face bbox: (153, 536, 317, 723)
+2025-04-11 03:07:57,119 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:57,120 - core.engine - WARNING - Invalid face bbox: (172, 546, 334, 721)
+2025-04-11 03:07:57,440 - core.engine - WARNING - Invalid face bbox: (330, -11, 483, 174)
+2025-04-11 03:07:57,440 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:57,756 - core.engine - WARNING - Invalid face bbox: (353, -61, 501, 131)
+2025-04-11 03:07:57,756 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:58,052 - core.engine - WARNING - Invalid face bbox: (438, -57, 572, 129)
+2025-04-11 03:07:58,052 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:58,362 - core.engine - WARNING - Invalid face bbox: (429, -9, 548, 150)
+2025-04-11 03:07:58,362 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:07:58,666 - core.engine - INFO - Recognized: suraj with confidence 0.5859
+2025-04-11 03:07:58,673 - core.engine - INFO - Recognized: suraj with confidence 0.7356
+2025-04-11 03:07:58,903 - core.engine - INFO - Recognized: suraj with confidence 0.7282
+2025-04-11 03:07:59,781 - core.engine - WARNING - Invalid face bbox: (549, -67, 665, 75)
+2025-04-11 03:08:00,001 - core.engine - INFO - Recognized: suraj with confidence 0.7057
+2025-04-11 03:08:00,218 - core.engine - INFO - Recognized: suraj with confidence 0.8483
+2025-04-11 03:08:00,451 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:00,687 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:00,890 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:01,108 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:01,333 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:01,554 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:01,777 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:01,997 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:02,202 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:02,416 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:02,640 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:02,839 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:03,039 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:03,247 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:03,472 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:03,687 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:03,916 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:04,136 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:04,366 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:04,588 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:04,789 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:05,002 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:05,223 - core.engine - INFO - Recognized: suraj with confidence 1.0000
+2025-04-11 03:08:05,459 - core.engine - WARNING - Invalid face bbox: (418, -4, 550, 156)
+2025-04-11 03:08:05,812 - core.engine - WARNING - Invalid face bbox: (317, -74, 446, 97)
+2025-04-11 03:08:06,026 - core.engine - WARNING - Invalid face bbox: (292, -77, 427, 111)
+2025-04-11 03:08:07,680 - __main__ - INFO - Processed 100 frames. Avg processing time: 186.7ms
+2025-04-11 03:08:08,914 - __main__ - INFO - Processing interrupted by user
+2025-04-11 03:08:08,954 - __main__ - INFO - Processing complete. 110 frames processed in 19.60s (avg: 178.2ms/frame)
+2025-04-11 03:08:08,954 - __main__ - INFO - Facial Recognition Surveillance System shut down

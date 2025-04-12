@@ -1,0 +1,40 @@
+2025-04-10 04:16:43,276 - __main__ - INFO - Starting Facial Recognition Surveillance System
+2025-04-10 04:16:43,276 - __main__ - INFO - Initializing surveillance system...
+2025-04-10 04:16:43,276 - __main__ - INFO - Initializing face detector...
+2025-04-10 04:16:44,845 - __main__ - INFO - Initializing face recognizer...
+2025-04-10 04:16:44,846 - __main__ - INFO - Initializing face database...
+2025-04-10 04:16:44,857 - database.face_database - INFO - Loaded database with 54 identities
+2025-04-10 04:16:44,857 - __main__ - INFO - Initializing memory systems...
+2025-04-10 04:16:44,857 - __main__ - INFO - Initializing embedding cache...
+2025-04-10 04:16:44,857 - __main__ - INFO - Initializing face tracker...
+2025-04-10 04:16:44,858 - __main__ - INFO - Initializing dynamic resolution scaler...
+2025-04-10 04:16:44,858 - __main__ - INFO - Initializing ROI manager...
+2025-04-10 04:16:44,858 - __main__ - INFO - Initializing surveillance engine...
+2025-04-10 04:16:44,859 - core.engine - INFO - Surveillance engine initialized
+2025-04-10 04:16:44,859 - __main__ - INFO - Surveillance system initialized successfully
+2025-04-10 04:16:44,859 - __main__ - INFO - Opening camera: 0
+2025-04-10 04:16:45,259 - __main__ - INFO - Starting video processing...
+2025-04-10 04:16:46,139 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:46,360 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:46,584 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:46,781 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:46,982 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:47,174 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:47,388 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:47,596 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:48,023 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:48,221 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:48,448 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:50,869 - __main__ - INFO - Processed 100 frames. Avg processing time: 40.5ms
+2025-04-10 04:16:56,018 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:56,064 - __main__ - INFO - Processed 200 frames. Avg processing time: 38.1ms
+2025-04-10 04:16:56,525 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:57,277 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:57,596 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:57,925 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:58,419 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:58,735 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:59,574 - core.engine - ERROR - Error in face detection: 'FaceDetector' object has no attribute 'logger'
+2025-04-10 04:16:59,860 - __main__ - INFO - Processing interrupted by user
+2025-04-10 04:16:59,895 - __main__ - INFO - Processing complete. 243 frames processed in 10.38s (avg: 42.7ms/frame)
+2025-04-10 04:16:59,896 - __main__ - INFO - Facial Recognition Surveillance System shut down

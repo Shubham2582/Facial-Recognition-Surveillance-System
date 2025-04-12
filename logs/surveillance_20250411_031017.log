@@ -1,0 +1,30 @@
+2025-04-11 03:10:17,166 - __main__ - INFO - Starting Facial Recognition Surveillance System
+2025-04-11 03:10:17,166 - __main__ - INFO - Initializing surveillance system...
+2025-04-11 03:10:17,166 - __main__ - INFO - Initializing face detector...
+2025-04-11 03:10:18,320 - __main__ - INFO - Initializing face recognizer...
+2025-04-11 03:10:18,322 - __main__ - INFO - Initializing face database...
+2025-04-11 03:10:18,322 - database.face_database - INFO - Loaded database with 54 identities
+2025-04-11 03:10:18,322 - __main__ - INFO - Initializing memory systems...
+2025-04-11 03:10:18,322 - __main__ - INFO - Initializing embedding cache...
+2025-04-11 03:10:18,322 - __main__ - INFO - Initializing surveillance engine...
+2025-04-11 03:10:18,324 - core.engine - INFO - Surveillance engine initialized
+2025-04-11 03:10:18,324 - __main__ - INFO - Surveillance system initialized successfully
+2025-04-11 03:10:18,324 - __main__ - INFO - Opening camera: 0
+2025-04-11 03:10:18,649 - __main__ - INFO - Starting video processing...
+2025-04-11 03:10:23,389 - core.engine - WARNING - Invalid face bbox: (-113, 263, 260, 727)
+2025-04-11 03:10:23,609 - core.engine - WARNING - Invalid face bbox: (26, 345, 398, 764)
+2025-04-11 03:10:23,830 - core.engine - INFO - Recognized: shubham with confidence 0.5325
+2025-04-11 03:10:24,057 - core.engine - INFO - Recognized: shubham with confidence 0.6916
+2025-04-11 03:10:24,281 - core.engine - INFO - Recognized: shubham with confidence 0.9149
+2025-04-11 03:10:24,529 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:24,756 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:24,983 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:25,200 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:25,423 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:25,646 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:25,851 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:26,073 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:10:26,278 - core.engine - WARNING - Invalid face bbox: (-78, 256, 267, 695)
+2025-04-11 03:10:35,022 - __main__ - INFO - Processing interrupted by user
+2025-04-11 03:10:35,075 - __main__ - INFO - Processing complete. 75 frames processed in 14.30s (avg: 190.6ms/frame)
+2025-04-11 03:10:35,076 - __main__ - INFO - Facial Recognition Surveillance System shut down

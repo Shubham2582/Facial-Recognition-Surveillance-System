@@ -1,0 +1,46 @@
+2025-04-11 03:11:29,539 - __main__ - INFO - Starting Facial Recognition Surveillance System
+2025-04-11 03:11:29,539 - __main__ - INFO - Initializing surveillance system...
+2025-04-11 03:11:29,539 - __main__ - INFO - Initializing face detector...
+2025-04-11 03:11:30,638 - __main__ - INFO - Initializing face recognizer...
+2025-04-11 03:11:30,638 - __main__ - INFO - Initializing face database...
+2025-04-11 03:11:30,638 - database.face_database - INFO - Loaded database with 54 identities
+2025-04-11 03:11:30,638 - __main__ - INFO - Initializing memory systems...
+2025-04-11 03:11:30,643 - __main__ - INFO - Initializing embedding cache...
+2025-04-11 03:11:30,643 - __main__ - INFO - Initializing surveillance engine...
+2025-04-11 03:11:30,643 - core.engine - INFO - Surveillance engine initialized
+2025-04-11 03:11:30,643 - __main__ - INFO - Surveillance system initialized successfully
+2025-04-11 03:11:30,643 - __main__ - INFO - Opening camera: 0
+2025-04-11 03:11:30,979 - __main__ - INFO - Starting video processing...
+2025-04-11 03:11:39,448 - core.engine - WARNING - Invalid face bbox: (575, -81, 721, 120)
+2025-04-11 03:11:39,704 - core.engine - WARNING - Invalid face bbox: (577, -82, 722, 121)
+2025-04-11 03:11:39,941 - core.engine - WARNING - Invalid face bbox: (585, -81, 727, 118)
+2025-04-11 03:11:40,195 - core.engine - WARNING - Invalid face bbox: (589, -85, 735, 114)
+2025-04-11 03:11:40,462 - core.engine - WARNING - Invalid face bbox: (580, -79, 722, 123)
+2025-04-11 03:11:40,690 - core.engine - WARNING - Invalid face bbox: (560, -36, 706, 156)
+2025-04-11 03:11:51,975 - core.engine - WARNING - Invalid face bbox: (342, -135, 1054, 722)
+2025-04-11 03:11:52,173 - core.engine - WARNING - Invalid face bbox: (325, -132, 1045, 726)
+2025-04-11 03:11:52,181 - __main__ - INFO - Processed 100 frames. Avg processing time: 183.8ms
+2025-04-11 03:11:52,378 - core.engine - WARNING - Invalid face bbox: (322, -130, 1043, 720)
+2025-04-11 03:11:52,579 - core.engine - WARNING - Invalid face bbox: (320, -118, 1030, 724)
+2025-04-11 03:11:52,809 - core.engine - WARNING - Invalid face bbox: (316, -127, 1032, 721)
+2025-04-11 03:11:53,030 - core.engine - WARNING - Invalid face bbox: (315, -76, 971, 723)
+2025-04-11 03:11:53,223 - core.engine - WARNING - Invalid face bbox: (388, -46, 950, 664)
+2025-04-11 03:11:53,432 - core.engine - WARNING - Invalid face bbox: (485, 345, 951, 857)
+2025-04-11 03:11:54,533 - core.engine - WARNING - Invalid face bbox: (244, 521, 661, 1021)
+2025-04-11 03:11:54,723 - core.engine - WARNING - Invalid face bbox: (259, 451, 695, 920)
+2025-04-11 03:11:54,938 - core.engine - WARNING - Invalid face bbox: (276, 351, 707, 815)
+2025-04-11 03:11:55,149 - core.engine - INFO - Recognized: shubham with confidence 0.7049
+2025-04-11 03:11:55,383 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:11:55,588 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:11:55,804 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:11:56,010 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:11:56,222 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:11:56,445 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 03:11:57,877 - core.engine - WARNING - Invalid face bbox: (-78, 377, 132, 586)
+2025-04-11 03:12:00,056 - core.engine - WARNING - Invalid face bbox: (160, 606, 327, 747)
+2025-04-11 03:12:00,256 - core.engine - WARNING - Invalid face bbox: (158, 592, 326, 748)
+2025-04-11 03:12:02,950 - core.engine - WARNING - Invalid face bbox: (159, 538, 323, 723)
+2025-04-11 03:12:03,164 - core.engine - WARNING - Invalid face bbox: (135, 570, 304, 735)
+2025-04-11 03:12:07,391 - __main__ - INFO - Processing interrupted by user
+2025-04-11 03:12:07,428 - __main__ - INFO - Processing complete. 186 frames processed in 31.16s (avg: 167.6ms/frame)
+2025-04-11 03:12:07,428 - __main__ - INFO - Facial Recognition Surveillance System shut down

@@ -1,0 +1,26 @@
+2025-04-11 03:06:30,720 - __main__ - INFO - Starting Facial Recognition Surveillance System
+2025-04-11 03:06:30,720 - __main__ - INFO - Initializing surveillance system...
+2025-04-11 03:06:30,720 - __main__ - INFO - Initializing face detector...
+2025-04-11 03:06:31,810 - __main__ - INFO - Initializing face recognizer...
+2025-04-11 03:06:31,810 - __main__ - INFO - Initializing face database...
+2025-04-11 03:06:31,810 - database.face_database - INFO - Loaded database with 54 identities
+2025-04-11 03:06:31,810 - __main__ - INFO - Initializing memory systems...
+2025-04-11 03:06:31,812 - __main__ - INFO - Initializing embedding cache...
+2025-04-11 03:06:31,812 - __main__ - INFO - Initializing surveillance engine...
+2025-04-11 03:06:31,812 - core.engine - INFO - Surveillance engine initialized
+2025-04-11 03:06:31,812 - __main__ - INFO - Surveillance system initialized successfully
+2025-04-11 03:06:31,812 - __main__ - INFO - Opening camera: 0
+2025-04-11 03:06:32,123 - __main__ - INFO - Starting video processing...
+2025-04-11 03:06:54,228 - core.engine - WARNING - Invalid face bbox: (1013, -74, 1146, 103)
+2025-04-11 03:06:54,826 - __main__ - INFO - Processed 100 frames. Avg processing time: 198.2ms
+2025-04-11 03:06:55,008 - core.engine - WARNING - Invalid face bbox: (70, -72, 204, 91)
+2025-04-11 03:06:55,216 - core.engine - WARNING - Invalid face bbox: (101, -44, 245, 124)
+2025-04-11 03:06:55,429 - core.engine - WARNING - Invalid face bbox: (249, -48, 388, 115)
+2025-04-11 03:06:55,650 - core.engine - WARNING - Invalid face bbox: (305, -13, 443, 136)
+2025-04-11 03:07:06,798 - core.engine - WARNING - Invalid face bbox: (1103, 239, 1285, 445)
+2025-04-11 03:07:06,984 - core.engine - WARNING - Invalid face bbox: (1125, 224, 1305, 431)
+2025-04-11 03:07:12,898 - core.engine - WARNING - Invalid face bbox: (389, -84, 542, 105)
+2025-04-11 03:07:15,059 - __main__ - INFO - Processed 200 frames. Avg processing time: 188.1ms
+2025-04-11 03:07:15,817 - __main__ - INFO - Processing interrupted by user
+2025-04-11 03:07:15,853 - __main__ - INFO - Processing complete. 206 frames processed in 38.16s (avg: 185.2ms/frame)
+2025-04-11 03:07:15,856 - __main__ - INFO - Facial Recognition Surveillance System shut down

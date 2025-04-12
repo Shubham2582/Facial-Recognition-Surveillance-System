@@ -1,0 +1,96 @@
+2025-04-11 02:56:57,172 - __main__ - INFO - Starting Facial Recognition Surveillance System
+2025-04-11 02:56:57,172 - __main__ - INFO - Initializing surveillance system...
+2025-04-11 02:56:57,172 - __main__ - INFO - Initializing face detector...
+2025-04-11 02:56:58,649 - __main__ - INFO - Initializing face recognizer...
+2025-04-11 02:56:58,649 - __main__ - INFO - Initializing face database...
+2025-04-11 02:56:58,649 - database.face_database - INFO - Loaded database with 54 identities
+2025-04-11 02:56:58,649 - __main__ - INFO - Initializing memory systems...
+2025-04-11 02:56:58,649 - __main__ - INFO - Initializing embedding cache...
+2025-04-11 02:56:58,649 - __main__ - INFO - Initializing surveillance engine...
+2025-04-11 02:56:58,649 - core.engine - INFO - Surveillance engine initialized
+2025-04-11 02:56:58,649 - __main__ - INFO - Surveillance system initialized successfully
+2025-04-11 02:56:58,649 - __main__ - INFO - Opening camera: 0
+2025-04-11 02:56:59,052 - __main__ - INFO - Starting video processing...
+2025-04-11 02:56:59,488 - core.engine - INFO - Recognized: shubham with confidence 0.7272
+2025-04-11 02:56:59,775 - core.engine - INFO - Recognized: shubham with confidence 0.9934
+2025-04-11 02:56:59,978 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:00,192 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:00,386 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:00,596 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:00,810 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:01,025 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:01,230 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:01,419 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:01,636 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:01,829 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:02,047 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:02,244 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:02,449 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:02,661 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:02,872 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:03,068 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:03,282 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:03,481 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:03,706 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:03,942 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:04,170 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:04,379 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:04,575 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:04,773 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:04,980 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:05,190 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:05,396 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:05,593 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:05,787 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:05,994 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:06,231 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:06,448 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:06,657 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:06,865 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:07,060 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:07,277 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:07,483 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:07,675 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:07,871 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:08,089 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:08,302 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:08,522 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:08,743 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:08,953 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:09,183 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:09,382 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:09,589 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:09,797 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:10,007 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:10,228 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:10,450 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:10,655 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:10,866 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:11,082 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:11,292 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:11,496 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:11,710 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:11,917 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:12,128 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:12,332 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:12,550 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:12,744 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:12,948 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:13,162 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:13,399 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:13,612 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:13,842 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:14,068 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:14,283 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:14,506 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:14,740 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:15,136 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:15,405 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:15,632 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:15,869 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:16,117 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:16,375 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:16,614 - core.engine - INFO - Recognized: shubham with confidence 1.0000
+2025-04-11 02:57:16,736 - __main__ - INFO - Processing interrupted by user
+2025-04-11 02:57:16,778 - __main__ - INFO - Processing complete. 81 frames processed in 15.05s (avg: 185.8ms/frame)
+2025-04-11 02:57:16,779 - __main__ - INFO - Facial Recognition Surveillance System shut down
